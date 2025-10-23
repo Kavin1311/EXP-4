@@ -1,3 +1,5 @@
+# Name: T.KAVINAJAI
+# REGISTER NO: 212223100020
 # Experiment 4: DeFi Lending and Borrowing Protocol
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
@@ -93,5 +95,14 @@ Introduces risk management: overcollateralization and liquidation.
 
 Directly related to DeFi protocols like Aave and Compound.
 
-# RESULT : 
+# deposit:
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5cf9bc59-ce4b-4d52-b202-668074bc0e7d" />
 
+# collateral:
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/2968ddb4-145a-42f9-a22b-3eb1056b8870" />
+
+# borrow:
+<img width="1071" height="647" alt="image" src="https://github.com/user-attachments/assets/36edee83-4bb9-4504-b0af-a27cf55c17ae" />
+
+# RESULT : 
+The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
